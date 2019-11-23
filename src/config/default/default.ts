@@ -5,18 +5,18 @@ export const DEFAULT_CONFIG = {
   prodApiEndpoint: 'https://aviastore.aviacomapi.com/',
   // prodApiEndpoint: 'http://localhost:3000/',
   frontEndUrl: 'https://demo.aviacommerce.com/',
-  appName: 'AviaCommerce Online Shop',
+  appName: 'AviaCommerce Online Shop fork',
   fevicon: '/assets/default/favicon.ico',
   header: {
     brand: {
       logo: '/assets/default/logo.svg',
       logoPng:
         'https://res.cloudinary.com/aviabird/image/upload/h_250/v1539065176/aviacommerce/logo/main.png',
-      name: 'AviaCommerce',
+      name: 'AviaCommerce fork',
       height: '40',
       width: '135'
     },
-    searchPlaceholder: 'Search for products',
+    searchPlaceholder: 'Search for products...',
     showGithubRibon: false
   },
   showDummyCardInfo: true,
